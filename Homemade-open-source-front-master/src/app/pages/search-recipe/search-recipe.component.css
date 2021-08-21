@@ -1,0 +1,23 @@
+body{
+  background-image: url('https://thumbs.dreamstime.com/b/cuchillo-incons%C3%BAtil-de-la-bifurcaci%C3%B3n-del-modelo-de-los-cubiertos-91859793.jpg');
+}
+
+
+
+.example-card {
+  width: 1000px;
+  left: 500px;
+
+}
+
+.search{
+  padding-left: 800px;
+  padding-top: 70px;
+  width: 1000px;
+  left: 500px;
+}
+
+.example-header-image {
+  background-image: url('https://lh3.googleusercontent.com/proxy/LmVIsm9q4eSk-Qdc4LZOC8Wlk38U7ju6eGyzFgZDsDtTZSc_4mXB-f-Lk0w9yAVIqGgMGlAnu31YrzxmiLJfs1aXA_-EqPF0XLG_s1AIeksgHU_Z0qXKr6sxl1h0BDARUqLQmDKkf2Y');
+  background-size: cover;
+}
